@@ -1,7 +1,7 @@
 # Test Case: POST /api/users
 
 ## Preconditions
-- API: https://reqres.in/api/register
+- API: https://reqres.in
 
 ## Steps
 1. Изпрати POST заявка към /api/users
