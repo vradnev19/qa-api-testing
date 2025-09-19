@@ -1,1 +1,6 @@
-# qa-api-testing
+# QA API Testing — Reqres.in Demo
+
+Това е демо проект за **QA API тестване**, изграден с Postman, Newman и GitHub Actions.  
+Проектът използва публичното API [reqres.in](https://reqres.in/) и показва как може да се пишат автоматизирани тестове, да се документират тестови сценарии и да се интегрират тестовете в CI/CD процес.
+
+---
