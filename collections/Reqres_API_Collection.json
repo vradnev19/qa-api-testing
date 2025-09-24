@@ -80,7 +80,7 @@
           "raw": "{\n  \"name\": \"maria\",\n  \"job\": \"tester\"\n}"
         },
         "url": {
-          "raw": "https://reqres.in/api/register",
+          "raw": "https://reqres.in/api/login",
           "protocol": "https",
           "host": ["reqres", "in"],
           "path": ["api", "users"]
